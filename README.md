@@ -10,8 +10,7 @@
 
 ### Instalación
 
-1. Clonar Repositorio `git@gitlab.com:plencovich/movistar-edificios.git`
-
+1. Clonar Repositorio
 2. Acceder a la carpeta donde fue clonado y ejecutar `composer install`
 
 3. Configurar el `ENVIRONMENT` según corresponda para `development` o `production` dentro de la carpeta `/public_html/app/config` y setear en el archivo `/public_html/.htaccess` el host para cargar automaticamente el `ENVIRONMENT` de `production`, modificar la linea `SetEnvIf Host speedy.com.ar$ CI_ENV=production`
