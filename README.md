@@ -10,7 +10,7 @@
 
 ### Instalación
 
-1. Clonar Repositorio `git@gitlab.com:plencovich/movistar-edificios.git`
+1. Clonar Repositorio
 
 2. Acceder a la carpeta donde fue clonado y ejecutar `composer install`
 
