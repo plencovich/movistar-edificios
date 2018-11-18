@@ -1,0 +1,63 @@
+div.datedropper.movistar {
+  border-radius: 8px;
+  width: 180px;
+}
+
+div.datedropper.movistar .picker {
+  border-radius: 8px;
+  box-shadow: 0 0 32px 0px rgba(0, 0, 0, 0.1);
+}
+
+div.datedropper.movistar .pick-l {
+  border-bottom-left-radius: 8px;
+  border-bottom-right-radius: 8px;
+}
+
+div.datedropper.movistar:before,
+div.datedropper.movistar .pick-submit,
+div.datedropper.movistar .pick-lg-b .pick-sl:before,
+div.datedropper.movistar .pick-m,
+div.datedropper.movistar .pick-lg-h {
+  background-color: #00a9e0;
+}
+
+div.datedropper.movistar .pick-y.pick-jump,
+div.datedropper.movistar .pick li span,
+div.datedropper.movistar .pick-lg-b .pick-wke,
+div.datedropper.movistar .pick-btn {
+  color: #00a9e0;
+}
+
+div.datedropper.movistar .picker,
+div.datedropper.movistar .pick-l {
+  background-color: #FFF;
+}
+
+div.datedropper.movistar .picker,
+div.datedropper.movistar .pick-arw,
+div.datedropper.movistar .pick-l {
+  color: #4D4D4D;
+}
+
+div.datedropper.movistar .pick-m,
+div.datedropper.movistar .pick-m .pick-arw,
+div.datedropper.movistar .pick-lg-h,
+div.datedropper.movistar .pick-lg-b .pick-sl,
+div.datedropper.movistar .pick-submit {
+  color: #FFF;
+}
+
+div.datedropper.movistar.picker-tiny:before,
+div.datedropper.movistar.picker-tiny .pick-m {
+  background-color: #FFF;
+}
+
+div.datedropper.movistar.picker-tiny .pick-m,
+div.datedropper.movistar.picker-tiny .pick-m .pick-arw {
+  color: #4D4D4D;
+}
+
+div.datedropper.movistar.picker-lkd .pick-submit {
+  background-color: #FFF;
+  color: #4D4D4D;
+}

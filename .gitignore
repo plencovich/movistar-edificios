@@ -1,0 +1,27 @@
+### CodeIgniter ###
+app/logs/*
+!app/logs/index.html
+!app/logs/.htaccess
+*app/logs/log-*.php
+!*app/logs/index.html
+!*app/logs/.htaccess
+*app/cache/*
+!*app/cache/index.html
+!*app/cache/.htaccess
+
+### VisualStudioCode ###
+.vscode/*
+!.vscode/settings.json
+!.vscode/tasks.json
+!.vscode/launch.json
+!.vscode/extensions.json
+
+### Composer ###
+*composer.phar
+*composer.lock
+*vendor
+
+*node_modules
+
+### Media ###
+*public_html/media
